@@ -118,9 +118,10 @@ background-size: cover;
         text-align:center;
         width:30%;
         padding: 10px;
-        border: 2px solid #ca8f7f;
+        border: 1px solid #ca8f7f;
         border-radius: 5%;
-        background-color: #a74174;
+        margin: 2px;
+    background-color: #35424a;
     
     }
 aside{
