@@ -1,0 +1,132 @@
+/*stylesheet*/
+body{
+    font: 15px/1.5 arial,helvetica,sans-serif;
+    padding: 0;
+    margin: 0;
+    background-color:#f4f4f4;
+}
+.container{
+    width:100%;
+    margin:auto;
+    overflow: hidden;
+}
+ #contain{
+    background: url(../img/blackbuga.jpg) no-repeat ;
+    background-size: cover;
+    color: whitesmoke;
+}
+ul{
+    margin: 0;
+    padding: 0;
+}
+    .button_1{
+height:38px;
+background: rgb(151, 111, 146);
+border:0;
+padding: 0 20px 0 20px;
+color:white;
+    }
+
+.button{
+    padding: auto;
+}
+
+header{
+    background: #35424a;
+    color: #ffffff;
+    padding-top: 30px;
+    min-height:70px;
+    border-bottom:3px solid rgb(131, 90, 124) ;
+}
+header a{
+    color:white;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 16px;
+}
+header li{
+    float:left;
+    display:inline;
+    padding: 0 20px 0 20px;
+}
+header #branding{
+    float:left;
+
+}
+header #branding h1{
+    margin:0;
+    
+}
+header nav{
+    float:right;
+    margin-top:10px;
+}
+ .highlight, .current a{
+    color: #9e6a93;
+    font-weight:bold;
+
+}
+a:hover{
+    color:#9c8298;
+    font-weight:bold;
+}
+#newsletter{
+    padding: 15px;
+    color:#ffffff;
+    background: #35424a;
+
+}
+#newsletter h1{
+float:left;
+
+}
+
+#newsletter form{
+float:right;
+margin-top:15px;
+
+}
+#newsletter input{
+padding: 4px;
+height:25px;
+width: 250px;
+}
+footer{
+    padding: 20px;
+    margin-top:20px;
+    color:white;
+    background: #ca8f7f;
+    text-align: center;
+}
+#wrap{
+    text-align: center;
+    color:white;
+
+    }
+    #wrap h1{
+        margin-top:100px ;
+        font-size: 55px;
+        margin-bottom: 10px;
+    }
+    #wrap p{
+        font-size:20px;
+        }
+       .current a{
+            color: #9e6a93;
+            font-weight:bold;}
+            p{
+                margin-top: 0;
+
+            }
+            #boxes{
+                margin-top: 20px;
+                height: 25%;
+               
+        
+            }
+            #boxes .box{
+                float:left;
+                text-align:center;
+                width:30%;
+                padding: 5px;
+            }
